@@ -25,7 +25,9 @@ The goal is to support medical professionals and researchers with a fast, offlin
 | Metric            | Value (%)   |
 |-------------------|-------------|
 | **Training Accuracy** | 90.80      |
+| **Validation Accuracy**|90.60      | 
 | **Testing Accuracy**  | 90.43      |
+
 
 The model shows a high level of generalization and consistent performance on unseen data.
 
