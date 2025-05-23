@@ -69,12 +69,12 @@ BrainTumorDetection/
 │   ├── pituitary
 │   ├── model/
 │   ├── brain_tumor.keras # Trained Keras model
+
 ├── assets/                     # Images for documentation (UI, graphs, etc.)
 │   ├── app_interface.png
 │   ├── accuracy_curve.png
 │   └── confusion_matrix.png
 │
-├── brain_tumor.keras           # Trained Keras model
 ├── main.py    # Main application (GUI + prediction)
 ├── LICENSE                     # MIT License file
 └── README.md                   # Project documentation
@@ -120,5 +120,5 @@ Read the full license in the [LICENSE](LICENSE) file.
 
 **HoussemBouagal**  
 📧 Email: mouhamedhoussem813@gmail.com 
-🔗 LinkedIn: [Your LinkedIn]  
+🔗 LinkedIn: [[Your LinkedIn]](https://www.linkedin.com/in/houssem-eddine-bouagal-98025a297)  
 🌐 Portfolio:https://houssembouagal.github.io/Portfolio/
