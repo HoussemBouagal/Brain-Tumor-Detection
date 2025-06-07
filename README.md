@@ -159,16 +159,6 @@ BrainTumorDetection/
 
 ---
 
-## 🚀 Future Improvements
-
-- Add PDF report generation with model predictions.
-- Integrate tumor localization (bounding box) using YOLO or segmentation models.
-- Improve pre-processing with denoising or histogram equalization.
-- Add multilingual support (including Arabic).
-- Add dark/light mode to the GUI.
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License**.
